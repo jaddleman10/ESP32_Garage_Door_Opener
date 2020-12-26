@@ -1,0 +1,5 @@
+This sketch creates a websocket on the ESP32 server to control a garage door over WiFi.
+A N.O. switch is required to determine the open and closed positions of the door.
+The output requires dry contacts to connect across the pushbutton that operates the door.
+The sketch was used on an ESP32-DevKitC V2 module.
+Several libraries will be required to be added to the arduino environment fot the sketch to work.
