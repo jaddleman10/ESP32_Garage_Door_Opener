@@ -1,1 +1,2 @@
 # EPS32_Garage_Door_Opener
+This project uses an ESP32-DevKitC V2 to operate a garage door using a websocket or Alexa commands. I developed a PCB for the ESP32 and the connectors as well as the relay to operate the garage door. In order to use this you must install two switches that detect the position of the door. One for fully open and one for fully closed. I used a magnetic switch for the closed position and a lever switch for the open position. See the schematic for the connections.
